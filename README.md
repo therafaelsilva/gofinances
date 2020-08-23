@@ -44,8 +44,8 @@ Essa é a aplicação GoFinances, de gestão de transações no qual o usuário 
   $ cd backend
   
   # Instalar as dependências:
-
   $ yarn
+  
   # Rodar as migrations:
   $ yarn typeorm migration:run
 
